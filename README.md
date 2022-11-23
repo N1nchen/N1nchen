@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninag-ss" alt="ninag-ss" /></a> </p>
 
-- 🔭 I’m currently working on **top secret SureSkills content.** :zany_face: (Only kidding, it's not really confidential. IYKYK.)
+- 🔭 I’m currently working on **top secret SureSkills content**. 🧙‍♂️ (Only kidding, it's not really confidential. IYKYK.)
 
-- 📫 How to reach me: **nina.gelderblom@sureskills.com**
+- 📫 How to reach me: **nina.gelderblom@sureskills.com**.
 
 - ⚡ Fun fact: **I can speak 3 human languages (and several computer languages too).**
 
