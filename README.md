@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nina!</h1>
-<h3 align="center">I'm a self-proclaimed geek, editor, and content developer from South Africa. :sunglasses: :south_africa:</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninag-ss" alt="ninag-ss" /></a> </p>
+<h3 align="center">I'm a geek, editor, and content developer from South Africa. :sunglasses: :south_africa:</h3>
 
 - 📫 How to reach me: **nina.gelderblom@sureskills.com**.
 
