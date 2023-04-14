@@ -1,3 +1,4 @@
+<h3>About me</h3>
 <p>Hi 👋 I'm Nina</p>
 <p>I'm a geek, editor, and content developer from South Africa. :sunglasses: :south_africa:</p>
 ⚡ Fun fact: I can speak 3 human languages (and several computer languages too).
